@@ -1,12 +1,5 @@
 <?php
 
-/**
- * @package     Abhay/CustomAttribute
- * @version     1.0.0
- * @author      Abhay
- * @copyright   Copyright © 2021. All Rights Reserved.
- */
-
 namespace Abhay\CustomAttribute\Setup\Patch\Data;
 
 use Magento\Eav\Setup\EavSetup;
